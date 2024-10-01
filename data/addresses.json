@@ -1,0 +1,227 @@
+[
+    {
+        "partner": "Alliance of Community Assistance Ministries (ACAM)",
+        "address": "10200 Richmond Ave, Suite 110 Houston 77042",
+        "zip_code": "77042",
+        "latitude": 29.72878725450709,
+        "longitude": -95.55268252883624,
+        "website": "https://acamweb.org/"
+    },
+    {
+        "partner": "Emergency Aid Coalition (EAC)",
+        "address": "5401 Fannin Street, Houston, TX, 77004",
+        "zip_code": "77004",
+        "latitude": 29.7266,
+        "longitude": -95.3876,
+        "website": "https://eachouston.org/"
+    },
+    {
+        "partner": "East Fort Bend Human Needs Ministry",
+        "address": "425 Stafford Run Rd., Stafford, TX, 77477",
+        "zip_code": "77477",
+        "latitude": 29.6145,
+        "longitude": -95.561,
+        "website": "https://www.humanneeds.org/"
+    },
+    {
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "address": "9894 Bissonnet Street, Suite 900, Houston, TX, 77036",
+        "zip_code": "77036",
+        "latitude": 29.6752,
+        "longitude": -95.5535,
+        "website": "https://echoshouston.org/"
+    },
+    {
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "address": "1302  1st Street, East, Humble, TX, 77338",
+        "zip_code": "77338",
+        "latitude": 29.9991,
+        "longitude": -95.254,
+        "website": "https://haamministries.org/"
+    },
+    {
+        "partner": "Interfaith Caring Ministries (ICM)",
+        "address": "151 Park Avenue, League City, TX, 77573",
+        "zip_code": "77573",
+        "latitude": 29.5097,
+        "longitude": -95.0905,
+        "website": "https://icmtx.org/" 
+    },
+    {
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "address": "3303 Main St, Houston, TX, 77002",
+        "zip_code": "77002",
+        "latitude": 29.7408,
+        "longitude": -95.3776,
+        "website": "https://imgh.org/"
+    },
+    {
+        "partner": "Interfaith of the Woodlands",
+        "address": "4242 Interfaith Way, The Woodlands, TX, 77381",
+        "zip_code": "77381",
+        "latitude": 30.1639,
+        "longitude": -95.4941,
+        "website": "https://woodlandsinterfaith.org/"
+    },
+    {
+        "partner": "Interfaith of the Woodlands",
+        "address": "101 Pine Manor Drive, Oak Ridge North, TX, 77385",
+        "zip_code": "77385",
+        "latitude": 30.167226049061178, 
+        "longitude"  : -95.44913448869777,
+        "website": "https://woodlandsinterfaith.org/"
+
+    },
+    {
+        "partner": "Katy Christian Ministries (KCM)",
+        "address": "3506 Porter Road, Katy, TX, 77493",
+        "zip_code": "77493",
+        "latitude": 29.8248,
+        "longitude": -95.79,
+        "website": "https://ktcm.org/"
+    },
+    {
+        "partner": "Katy Christian Ministries (KCM)",
+        "address": "802 Dominion Dr., Suite 500, Katy, TX, 77450",
+        "zip_code": "77450",
+        "latitude": 29.774765755728154,
+        "longitude":  -95.73002390405281,
+        "website" : "https://ktcm.org/"
+    },
+    {
+        "partner": "Main Street Ministries",
+        "address": "5100 Travis St, Houston, TX, 77002",
+        "zip_code": "77002",
+        "latitude": 29.7293,
+        "longitude": -95.3882,
+        "website": "https://msmhouston.org/"
+    },
+    {
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "address": "1625 Blalock Rd, Houston, TX, 77080",
+        "zip_code": "77080",
+        "latitude": 29.8013,
+        "longitude": -95.5243,
+        "website": "https://www.mamhouston.org/"
+    },
+    {
+        "partner": "My Brother's Keeper Outreach Center",
+        "address": "12621 Bissonnet Street, Houston, TX, 77099",
+        "zip_code": "77099",
+        "latitude": 29.6773,
+        "longitude": -95.6002,
+        "website": "https://www.mybkoutreach.org/"
+    },
+    {
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "address": "15555 Kuykendahl Rd Suite #319, Houston, TX, 77090",
+        "zip_code": "77090",
+        "latitude": 30.0114,
+        "longitude": -95.4669,
+        "website": "https://www.namonline.org/"
+    },
+    {
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "address": "6654 Gulf Freeway, Houston, TX, 77087",
+        "zip_code": "77087",
+        "latitude": 29.6959,
+        "longitude": -95.2889,
+        "website": "https://www.svdphouston.org/"
+    },
+    {
+        "partner": "St. Vincent's House",
+        "address": "2817 Postoffice St, Galveston, TX 77550",
+        "zip_code": "77550",
+        "latitude": 29.303077825574913,
+        "longitude": -94.79973323068012,
+        "website": "https://www.stvhope.org/"
+    },
+    {
+        "partner": "Wesley Community Center",
+        "address": "1410 Lee Street, Houston, TX, 77009",
+        "zip_code": "77009",
+        "latitude": 29.7814,
+        "longitude": -95.3537,
+        "website": "https://wesleyhousehouston.org/"
+    },
+    {
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "address": "2900 Louisiana Street, Houston, TX, 77006",
+        "zip_code": "77006",
+        "latitude": 29.7451,
+        "longitude": -95.3782,
+        "website": "https://catholiccharities.org/"
+    },
+    {
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "address": "1111 Collin Rd., Richmond, TX, 77469",
+        "zip_code": "77469",
+        "latitude": 29.59055720704854,
+        "longitude":  -95.77321711591125,
+        "website": "https://catholiccharities.org/"
+    },
+    {
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "address": "12300 Parc Crest Dr., Stafford, TX, 77477",
+        "zip_code": "77477",
+        "latitude": 29.644,
+        "longitude": -95.5679,
+        "website": "https://catholiccharities.org/"
+    },
+    {
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "address": "2615 Fannin Street, Houston, TX, 77002",
+        "zip_code": "77002",
+        "latitude": 29.7447,
+        "longitude": -95.3733,
+        "website": "https://catholiccharities.org/"
+    },
+    {
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "address": "326 S Jensen Dr., Houston, TX, 77003",
+        "zip_code": "77003",
+        "latitude": 29.7603,
+        "longitude": -95.3444,
+        "website": "https://catholiccharities.org/"
+    },
+    {
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "address": "5599 San Felipe Street, Suite 300, Houston, TX, 77056",
+        "zip_code": "77056",
+        "latitude": 29.75,
+        "longitude": -95.4744,
+        "website": "https://catholiccharities.org/"
+    },
+    {
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "address": "600 Bering Dr., Houston, TX, 77057",
+        "zip_code": "77057",
+        "latitude": 29.763,
+        "longitude": -95.4798,
+        "website": "https://catholiccharities.org/"
+    },
+    {
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "address": "712 5th Ave. North, Texas City, TX, 77590",
+        "zip_code": "77590",
+        "latitude": 29.3894,
+        "longitude": -94.9044,
+        "website": "https://catholiccharities.org/"
+    },
+    {
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "address": "4700 Broadway, Suite F-103, Galveston, TX, 77551",
+        "zip_code": "77551",
+        "latitude": 29.298891669704208, 
+        "longitude": -94.81992675096231,
+        "website": "https://catholiccharities.org/"
+    },
+    {
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "address": "3303 Main Street, Houston, TX, 77002",
+        "zip_code": "77002",
+        "latitude": 29.7408,
+        "longitude": -95.3776,
+        "website": "https://imgh.org/"
+    }
+]

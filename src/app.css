@@ -1,0 +1,27 @@
+
+:root {
+    /* --background: #FAFAF8; */
+    --background: #FFFFFF;
+    
+    --text: #ffffff;
+    --text-light: #eeeeee;
+
+    
+    --font-sans: "Aptos", sans-serif;
+
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html, body {
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+    background: var(--background);
+    font-family: var(--font-sans);
+  }
+

@@ -1,0 +1,2912 @@
+[
+    {
+        "zip_code": "77002",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77002",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77002",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77003",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77003",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77003",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77003",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77003",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77004",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77004",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77004",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77004",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77004",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77006",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77006",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77006",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77007",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77007",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77007",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77007",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77008",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77008",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77008",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77009",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77009",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77009",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77009",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77009",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77011",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77011",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77011",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77011",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77012",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77013",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77013",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77013",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77013",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77013",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77014",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77014",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77014",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77015",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77015",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77015",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77015",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77015",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77016",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77016",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77016",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77016",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77016",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77017",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77017",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77017",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77017",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77018",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77018",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77019",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77019",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77020",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77020",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77020",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77020",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77020",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77020",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77021",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77021",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77021",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77021",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77021",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77022",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77022",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77022",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77022",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77022",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77023",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77023",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77023",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77024",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77025",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77025",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77026",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77026",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77026",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77026",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77026",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77026",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77027",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77028",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77028",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77028",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77028",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77029",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77029",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77029",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77030",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77031",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77031",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77031",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77032",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77032",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77032",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77033",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77033",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77033",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77033",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77034",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77034",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77034",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77034",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77034",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77035",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77035",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77035",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77035",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77036",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77036",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77036",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77036",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77036",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77037",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77037",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77038",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77038",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77038",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77039",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77039",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77039",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77039",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77040",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77040",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77040",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77041",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77041",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77042",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77042",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77042",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77042",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77042",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77042",
+        "partner": "Alliance of Community Assistance Ministries (ACAM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77043",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77043",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77043",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77044",
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77044",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77044",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77044",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77044",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77045",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77045",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77045",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77045",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77047",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77047",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77047",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77048",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77048",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77048",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77048",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77049",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77049",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77049",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77051",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77051",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77051",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77051",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77051",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77053",
+        "partner": "East Fort Bend Human Needs Ministry",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77054",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77054",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77055",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77055",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77055",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77055",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77056",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77056",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77057",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77057",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77057",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77057",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77057",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77058",
+        "partner": "Interfaith Caring Ministries (ICM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77058",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77059",
+        "partner": "Interfaith Caring Ministries (ICM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77060",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77060",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77060",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77060",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77060",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77060",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77061",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77061",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77062",
+        "partner": "Interfaith Caring Ministries (ICM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77062",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77063",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77063",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77063",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77063",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77064",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77064",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77065",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77065",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77066",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77066",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77067",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77067",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77067",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77068",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77069",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77070",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77070",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77070",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77071",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77071",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77071",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77071",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77072",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77072",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77072",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77072",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77073",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77073",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77073",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77073",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77074",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77074",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77074",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77074",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77075",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77075",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77076",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77076",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77076",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77076",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77077",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77077",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77077",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77077",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77078",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77078",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77078",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77078",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77078",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77079",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77079",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77080",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77080",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77080",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77080",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77080",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77081",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77081",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77081",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77081",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77081",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77082",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77082",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77082",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77082",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77083",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77083",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77083",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77083",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77084",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77084",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77084",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77084",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77085",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77086",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77086",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77087",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77087",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77087",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77087",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77087",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77088",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77088",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77088",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77088",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77088",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77088",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77089",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77089",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77089",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77090",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77090",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77090",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77091",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77091",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77091",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77091",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77091",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77091",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77092",
+        "partner": "Memorial Assistance Ministries (MAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77092",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77092",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77092",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77092",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77093",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77093",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77093",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77093",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77093",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77093",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77094",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77095",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77095",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77095",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77096",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77096",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77099",
+        "partner": "Epiphany Community Health Outreach Services (ECHOS)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77099",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77099",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77099",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77099",
+        "partner": "Emergency Aid Coalition (EAC)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77301",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77302",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77303",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77304",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77306",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77316",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77318",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77320",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77327",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77327",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77328",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77336",
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77336",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77338",
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77338",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77338",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77338",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77338",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77339",
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77339",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77340",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77345",
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77346",
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77346",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77346",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77354",
+        "partner": "Interfaith of the Woodlands",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77354",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77355",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77356",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77357",
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77357",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77358",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77362",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77363",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77365",
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77365",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77372",
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77373",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77373",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77373",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77375",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77375",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77377",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77377",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77378",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77379",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77380",
+        "partner": "Interfaith of the Woodlands",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77380",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77381",
+        "partner": "Interfaith of the Woodlands",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77381",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77382",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77384",
+        "partner": "Interfaith of the Woodlands",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77384",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77385",
+        "partner": "Interfaith of the Woodlands",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77385",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77386",
+        "partner": "Interfaith of the Woodlands",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77386",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77388",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77389",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77396",
+        "partner": "Humble Area Assistance Ministries (HAAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77396",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77396",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77396",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77396",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77406",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77406",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77407",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77407",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77423",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77429",
+        "partner": "Northwest Assistance Ministries (NAM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77433",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77433",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77441",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77449",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77449",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77449",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77449",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77449",
+        "partner": "Wesley Community Center",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77450",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77450",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77450",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77450",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77459",
+        "partner": "East Fort Bend Human Needs Ministry",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77459",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77461",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77469",
+        "partner": "East Fort Bend Human Needs Ministry",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77469",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77469",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77471",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77477",
+        "partner": "East Fort Bend Human Needs Ministry",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77477",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77478",
+        "partner": "East Fort Bend Human Needs Ministry",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77479",
+        "partner": "East Fort Bend Human Needs Ministry",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77479",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77489",
+        "partner": "East Fort Bend Human Needs Ministry",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77489",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77493",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77493",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77493",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77493",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77494",
+        "partner": "Katy Christian Ministries (KCM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77494",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77494",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77498",
+        "partner": "East Fort Bend Human Needs Ministry",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77498",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77498",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77502",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77504",
+        "partner": "Main Street Ministries",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77506",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77510",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77510",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77511",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77511",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77518",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77521",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77530",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77530",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77530",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77531",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77532",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77532",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77536",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77539",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77539",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77539",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77541",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77545",
+        "partner": "East Fort Bend Human Needs Ministry",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77545",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77546",
+        "partner": "Interfaith Caring Ministries (ICM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77546",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77550",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77550",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77550",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77550",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77551",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77551",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77551",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77551",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77554",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77562",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77563",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77563",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77565",
+        "partner": "Interfaith Caring Ministries (ICM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77566",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77568",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77568",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77568",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77571",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77573",
+        "partner": "Interfaith Caring Ministries (ICM)",
+        "restricted": true,
+        "is_primary_owner": true
+    },
+    {
+        "zip_code": "77573",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77573",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77578",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77581",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77583",
+        "partner": "East Fort Bend Human Needs Ministry",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77583",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77584",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77586",
+        "partner": "Interfaith Caring Ministries (ICM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77586",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77590",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77590",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77590",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77590",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77591",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77591",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77591",
+        "partner": "Interfaith Ministries of Greater Houston (IM)",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77598",
+        "partner": "Interfaith Caring Ministries (ICM)",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77598",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77642",
+        "partner": "Catholic Charities of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77650",
+        "partner": "St. Vincent's House",
+        "restricted": true,
+        "is_primary_owner": false
+    },
+    {
+        "zip_code": "77830",
+        "partner": "Society of St. Vincent de Paul of the Archdioses of Galveston-Houston",
+        "restricted": false,
+        "is_primary_owner": false
+    }
+]
