@@ -121,6 +121,7 @@
   {#if data.partner == "Alliance of Community Assistance Ministries (ACAM)"}
   <p style="text-align:left;"> Young adult employment services (16 yrs – 24yrs old) available in the following counties: Harris, Fort Bend, Waller, Montgomery, Galveston, and Brazoria. </p> 
     <p style="text-align:left;">Housing screening and navigation services available in the following counties: Harris, Fort Bend, Montgomery, and Waller.</p>
+    <p style="text-align:left;"> Visit <a target="_blank" href={filteredAddress.website}>{filteredAddress.website}</a> to learn more.</p>
   {:else}
     <p style="text-align:left;">Some services are only available in certain zipcodes. </p>
     <p style="text-align:left;"> Visit <a target="_blank" href={filteredAddress.website}>{filteredAddress.website}</a> to learn more.</p>
